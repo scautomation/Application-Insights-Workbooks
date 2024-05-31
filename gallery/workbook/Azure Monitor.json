@@ -163,15 +163,15 @@
 					"isPreview": true
 				},
 				{
-					"id": "Workbooks/Azure Resources/Azure Monitor Alert Reports",
+					"id": "Workbooks/Azure Resources/Alert Reports",
 					"author": "Microsoft",
-					"name": "Azure Monitor Alert Reports",
+					"name": "Alert Reports",
 					"isPreview": true
 				},
 				{
-					"id": "Workbooks/Azure Resources/Azure Service Health",
+					"id": "Workbooks/Azure Resources/Service Health",
 					"author": "Microsoft",
-					"name": "Azure Service Health",
+					"name": "Service Health",
 					"isPreview": true
 				}
 			]
