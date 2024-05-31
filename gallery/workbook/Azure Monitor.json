@@ -155,21 +155,6 @@
 					"id": "Workbooks/Azure Resources/Alerts",
 					"author": "Microsoft",
 					"name": "Alerts"
-				},
-				{
-					"id": "Workbooks/Azure Resources/Azure Inventory",
-					"author": "Microsoft",
-					"name": "Azure Inventory"
-				},
-				{
-					"id": "Workbooks/Azure Resources/Alert Reports",
-					"author": "Microsoft",
-					"name": "Alert Reports"
-				},
-				{
-					"id": "Workbooks/Azure Resources/Service Health",
-					"author": "Microsoft",
-					"name": "Service Health"
 				}
 			]
 		},
